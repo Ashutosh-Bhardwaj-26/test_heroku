@@ -69,12 +69,7 @@ def index():
 
     with open("abcd.png","rb") as img_file:
         my_final_predicted = base64.b64encode(img_file.read()).decode('utf8')
-
-
-
+    
     return "HEy"
-
-
-
 if __name__ == "__main__":
     app.run(debug=True)  
