@@ -3,7 +3,6 @@ gunicorn
 numpy
 pandas
 matplotlib
-pandas_datareader
 yfinance
 keras.models
-sklearn
+scikit-learn
