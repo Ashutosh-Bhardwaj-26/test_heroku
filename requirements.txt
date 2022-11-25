@@ -1,2 +1,10 @@
 flask
 gunicorn
+numpy
+pandas
+base64
+matplotlib.pyplot
+pandas_datareader
+yfinance
+keras.models
+sklearn.preprocessing
