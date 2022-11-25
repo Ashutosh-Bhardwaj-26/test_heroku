@@ -6,3 +6,4 @@ matplotlib
 yfinance
 keras.models
 scikit-learn
+tensorflow
