@@ -5,5 +5,5 @@ pandas
 matplotlib
 pandas_datareader
 yfinance
-keras
+keras.models
 sklearn
